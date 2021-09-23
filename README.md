@@ -10,8 +10,8 @@
 
 ## Preview
 ![메인 페이지](./images/main.jpg)
-![단어 추가]](./images/add_blank.jpg)
-![단어 추가]](./images/add.jpg)
-![테스트]](./images/test.jpg)
-![내 목록]](./images/mylist.jpg)
-![내 목록]](./images/mylist2.jpg)
+![단어 추가](./images/add_blank.jpg)
+![단어 추가](./images/add.jpg)
+![테스트](./images/test.jpg)
+![내 목록](./images/mylist.jpg)
+![내 목록](./images/mylist2.jpg)
