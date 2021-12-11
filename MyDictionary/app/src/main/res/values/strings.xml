@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyDictionary</string>
+    <string name="nounTitle">명사</string>
+    <string name="verbTitle">동사</string>
+    <string name="adjTitle">형용사</string>
+    <string name="advTitle">부사</string>
+    <string name="add">추가</string>
+    <string name="update">수정</string>
+    <string name="wrongTitle">틀린 횟수</string>
+    <string name="reset">틀린 횟수 초기화</string>
+</resources>
